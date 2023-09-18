@@ -1,4 +1,4 @@
 const collections = {
-    server_base:"http://cartopedia-server.onrender.com",
+    server_base:"https://cartopedia-server.onrender.com",
 }
 export default collections;
